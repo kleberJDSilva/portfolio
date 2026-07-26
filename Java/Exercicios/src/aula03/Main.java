@@ -20,5 +20,6 @@ public class Main {
 
         int produto = num1 * num2;
         System.out.println(num1 + " x " + num2 + " = " + produto);
+        scanner.close();
     }
-}
+}            
